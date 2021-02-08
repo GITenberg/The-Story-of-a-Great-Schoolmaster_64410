@@ -1,0 +1,28 @@
+_repo: The-Story-of-a-Great-Schoolmaster_64410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2021-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64410'
+  lccn: '24002153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanderson, F. W. (Frederick William), 1857-1922'
+- !lcsh 'School principals -- Great Britain -- Biography'
+- !lcc 'LA'
+- GITenberg
+title: The Story of a Great Schoolmaster
+url: http://www.gutenberg.org/ebooks/64410
